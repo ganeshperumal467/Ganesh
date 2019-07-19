@@ -1,8 +1,5 @@
-w=int(input())
-if(w>0):
- if(w%2==0):
-   print("Even")
- else:
-   print("Odd")
+alp=input()
+if(alp>='a'and alp<='z') or (alp>='A' and alp<='Z'):
+   print("Alphabet")
 else:
-  print("invalid")
+  print("No")
