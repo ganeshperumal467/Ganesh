@@ -5,4 +5,4 @@ if(w>0):
  else:
    print("Odd")
 else:
-  print("Not Valid")
+  print("invalid")
